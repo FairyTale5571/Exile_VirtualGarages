@@ -4,7 +4,6 @@
 	VK: https://vk.com/juba_johnson
 	E-Mail: a3atlaslife@gmail.com
 	
-	Вам запрещенно распорстранять/публиковать/использовать/изменять файлы без моего письменного разрешения!
 
 Установка:
 	В базе данных запустите файл atlas_virtualgarage.sql
@@ -28,5 +27,3 @@
 	Внутрь class CfgInteractionMenus добавить #include "VirtualGarageP\CfgInteractionMenus.h"
 	
 Радоваться!
-
-В случае каких либо проблем со скриптом, обращайтесь лично ко мне (Alexis)
